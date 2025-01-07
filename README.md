@@ -10,6 +10,6 @@
 
 ### Notebooks for submitions
 1. **predicting-js-boosting.ipynb** для бустинга
-2. **submission-ae-mlp.ipynb** для AE MLP. <ins>Не работает</ins>
+2. **submission-ae-mlp.ipynb** для AE MLP. Работает на первом тесте, но дальше не проходит
 
 
