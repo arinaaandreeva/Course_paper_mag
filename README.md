@@ -11,6 +11,7 @@
 
 ### Notebooks for submitions
 1. **predicting-js-boosting.ipynb** для бустинга
-2. **submission-ae-mlp.ipynb** для AE MLP. <ins> Ошибка исправлена, Работает </ins> Веса пока не подобраны, в коде один из вариантов
+2. **submission-ae-mlp.ipynb** для AE MLP. <ins> Ошибка исправлена, Работает </ins>
+3. ****Веса пока не подобраны, в коде один из вариантов. Лучше п
 
 
