@@ -12,6 +12,6 @@
 ### Notebooks for submitions
 1. **predicting-js-boosting.ipynb** для бустинга
 2. **submission-ae-mlp.ipynb** для AE MLP. <ins> Ошибка исправлена, Работает </ins>
-3. **xgb-nn-tabm-ridge-ae-mlp.ipynb**. Ансамбль xgb+nn+tabm+ridge+ae-mlp. (xgb+nn+tabm+ridge) модель из публичного ноутбука с самым высоким score. Веса пока не подобраны, в коде один из вариантов. 
+3. **xgb-nn-tabm-ridge-ae-mlp.ipynb**. Ансамбль xgb+nn+tabm+ridge+ae-mlp. (xgb+nn+tabm+ridge) модель из публичного ноутбука с самым высоким score. Веса пока не подобраны, в коде один из вариантов. score = 0.0081
 
 
